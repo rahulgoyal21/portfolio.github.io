@@ -1,0 +1,14 @@
+{
+  "name": "rahul_goyal_portfolio",
+  "version": "1.0.0",
+  "description": "Rahul Goyal Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Rahul Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
