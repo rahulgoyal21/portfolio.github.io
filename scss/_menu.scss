@@ -67,7 +67,7 @@
     background: darken($primary-color, 100);
     list-style: none;
     transform: translate3d(0, -100%, 0);
-    opacity: 0.8;
+    //opacity: 0.8;
     @include easeOut;
     &.show {
       //Slide in from top
@@ -87,8 +87,8 @@
     }
 
     .portrait {
-      width: 300px;
-      height: 300px;
+      width: 250px;
+      height: 250px;
       background: url('/dist/img/rahul.jpg');
       border-radius: 50%;
       border: 3px solid $primary-color;
