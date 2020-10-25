@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Rahul Goyal Portfolio",
   "main": "index.js",
-  "homepage": "https://rahulgoyal21.github.io/rahul_goyal_portfolio",
+  "homepage": "https://rahulgoyal21.github.io/rahul_goyal_portfolio/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
