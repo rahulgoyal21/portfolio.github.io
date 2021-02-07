@@ -6,8 +6,7 @@
   "homepage": "https://rahulgoyal21.github.io/rahul_goyal_portfolio/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist",
-    "repo": "https://github.com/rahulgoyal21/rahul_goyal_portfolio.git"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Rahul Goyal",
   "license": "MIT",
